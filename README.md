@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Rodriguez</h1>
-<h3 align="center">A passionate Software Tester from Colombia</h3>
+<h3 align="center">A passionate QA Engineer from Colombia</h3>
 
 - 🔭 I’m currently working on **Java & Selenium**
 
-- 🌱 I’m currently learning **React, Flutter, Cypress**
+- 🌱 I’m currently learning **React, Flutter, Cypress, JS, K6, Cucumber, Karate**
 
 - 💬 Ask me about **JAVA, C#, .NET**
 
